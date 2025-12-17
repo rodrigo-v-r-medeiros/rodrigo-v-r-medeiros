@@ -1,6 +1,6 @@
 # Olá! Eu sou o Rodrigo Medeiros 🚀
 
-Desenvolvedor Fullstack Sênior | Python, React e Soluções de Automação.
+Desenvolvedor Fullstack  | Python, Node, React e Soluções de Automação.
 
 Atualmente cursando Pós-graduação em IA e Automação (Rocketseat).
 
